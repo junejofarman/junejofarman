@@ -1,7 +1,7 @@
 
 <h1 align="center">Hey there! 👋 I'm Farman Junejo</h1>
 
-<h3 align="center">Software Engineer Under Training | Aspiring Full-Stack Developer</h3>
+<h3 align="center"> Software Engineering Graduate | Web Developer | Aspiring Full-Stack Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+my+developer+journey;Learning+Full-Stack+Development;Exploring+AI+%26+Modern+Web+Technologies;Turning+ideas+into+real+projects" alt="Typing SVG" />
